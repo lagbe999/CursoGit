@@ -21,6 +21,11 @@
 
         <!-- Contenido -->
         <section>
+        <p> Parrafo1 agregado como ejemplo de edicción en Github</p>
+        <p> Parrafo2 agregado como ejemplo de edicción en Github</p>
+        <p> Parrafo3 agregado como ejemplo de edicción en Github</p>
+        <p> Parrafo4 agregado como ejemplo de edicción en Github</p>
+        
             
             <figure>
                     <img src="Media/leon.jpg" width="200" height="200" alt="foto"  />
